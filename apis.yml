@@ -39,7 +39,6 @@ apis:
   - name: Motivational Quotes
     description: "Random Motivational Quotes"
     humanURL: https://nodejs-quoteapp.herokuapp.com/
-    baseURL: https://nodejs-quoteapp.herokuapp.com/
     tags:
       - Video
     properties:
